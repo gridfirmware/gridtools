@@ -11,3 +11,6 @@ first public release.
 
 ### 0.3.2
 fix cooling mode.
+
+### 0.3.3
+add under clock auto mode.
