@@ -14,3 +14,6 @@ fix cooling mode.
 
 ### 0.3.3
 add under clock auto mode.
+
+### 0.3.4
+add under clock freq display.
