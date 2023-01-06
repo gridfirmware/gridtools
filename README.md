@@ -17,3 +17,6 @@ add under clock auto mode.
 
 ### 0.3.4
 add under clock freq display.
+
+### 0.3.5
+add sleep mode.
