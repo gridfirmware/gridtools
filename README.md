@@ -20,3 +20,6 @@ add under clock freq display.
 
 ### 0.3.5
 add sleep mode.
+
+### 0.3.6
+add calculator.
