@@ -23,3 +23,6 @@ add sleep mode.
 
 ### 0.3.6
 add calculator.
+
+### 0.3.7
+add oil cooling profit table to the calculator.
